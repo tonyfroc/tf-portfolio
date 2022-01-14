@@ -6,7 +6,7 @@ html {
 }
 
 .intro-block {
-  padding: 1rem .5rem;
+  padding: 1rem 0.5rem;
   margin-bottom: 2rem;
   background-color: #1a374d;
   border-radius: 0.15rem;
@@ -28,7 +28,7 @@ html {
 }
 
 .about-me {
-  padding: 1rem .5rem;
+  padding: 1rem 0.5rem;
   margin-bottom: 2rem;
   background-color: #406882;
   border-radius: 0.3rem;
@@ -38,7 +38,7 @@ html {
 }
 
 .about-me h1 {
-  text-align: center; 
+  text-align: center;
 }
 
 .background-info {
@@ -48,54 +48,54 @@ html {
   border-radius: 0.3rem;
   overflow: hidden;
   font-family: Arial, Helvetica, sans-serif;
-  color: #1A374D;
+  color: #1a374d;
 }
 
-.background-info h1{
-  text-align: center; 
+.background-info h1 {
+  text-align: center;
 }
 
 .projects {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #B1D0E0;
+  background-color: #b1d0e0;
   border-radius: 0.3rem;
   overflow: hidden;
   font-family: Arial, Helvetica, sans-serif;
-  color: #1A374D;
+  color: #1a374d;
 }
 
 .projects h1 {
-  text-align: center; 
+  text-align: center;
 }
 
 .projects a {
-    color: #1A374D;
+  color: #1a374d;
 }
 .more-info {
   display: flex;
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #B1D0E0;
+  background-color: #b1d0e0;
   border-radius: 0.3rem;
   overflow: hidden;
   font-family: Arial, Helvetica, sans-serif;
-  color: #1A374D;
+  color: #1a374d;
 }
 
 .hobbies {
-  flex: 33%; 
-  border: 5px solid #1A374D;
+  flex: 33%;
+  border: 5px solid #1a374d;
 }
 
 .skills {
   flex: 33%;
-  border: 5px solid #1A374D
+  border: 5px solid #1a374d;
 }
 
 .interests {
   flex: 33%;
-  border: 5px solid #1A374D
+  border: 5px solid #1a374d;
 }
 
 h1 {
