@@ -2,7 +2,7 @@
 
 #### By Tony Froccaro
 
-#### Portfolio demonstrating projects created with HTML, CSS and Bootstrap
+#### Portfolio demonstrating projects created with HTML and CSS
 
 ## Technologies Used
 
@@ -19,11 +19,13 @@ This portfolio gives some insight into my decision to pursue programming, my edu
 - Navigate to your desktop folder
 - Navigate to https://github.com/tonyfroc/tf-portfolio
 - Select code, then copy the link below "Clone"
-- In terminal, type: git clone https://github.com/tonyfroc/tf-portfolio.git
-- In terminal, type: git init
-- In terminal, type: git remote add your_initials main https://github.com/tonyfroc/tf-portfolio.git
-- In terminal, type: git push your_initials main
-- Download a text editor (preferably VSCode) and in ternimal, type: code .
+- In terminal type:
+- `git clone https://github.com/tonyfroc/tf-portfolio.git`
+- `git init`
+- `git remote add your_initials main https://github.com/tonyfroc/tf-portfolio.git`
+- `git push your_initials main`
+- Download a text editor (preferably VSCode) and
+- in terminal, type: `code .`
 
 ## Known Bugs
 
