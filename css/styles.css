@@ -3,10 +3,10 @@
 }
 
 .intro-block {
-  padding: 2rem 1rem;
+  padding: 1rem .5rem;
   margin-bottom: 2rem;
   background-color: #1a374d;
-  border-radius: 0.3rem;
+  border-radius: 0.15rem;
   overflow: hidden;
 }
 
@@ -14,6 +14,8 @@
   width: 33%;
   margin-right: 15px;
   float: left;
+  border: 5px solid #a9cbff;
+  text-align: left;
 }
 
 .intro-text {
@@ -23,13 +25,17 @@
 }
 
 .about-me {
-  padding: 2rem 1rem;
+  padding: 1rem .5rem;
   margin-bottom: 2rem;
   background-color: #406882;
   border-radius: 0.3rem;
   overflow: hidden;
   font-family: Arial, Helvetica, sans-serif;
   color: #a9cbff;
+}
+
+.about-me h1 {
+  text-align: center; 
 }
 
 .background-info {
@@ -42,6 +48,10 @@
   color: #1A374D;
 }
 
+.background-info h1{
+  text-align: center; 
+}
+
 .projects {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
@@ -50,6 +60,31 @@
   overflow: hidden;
   font-family: Arial, Helvetica, sans-serif;
   color: #1A374D;
+}
+
+.projects h1 {
+  text-align: center; 
+}
+
+.more-info {
+  display: flex;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #B1D0E0;
+  border-radius: 0.3rem;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1A374D;
+}
+
+.hobbies {
+  flex: 50%; 
+  border: 5px solid #1A374D;
+}
+
+.interests {
+  flex: 50%;
+  border: 5px solid #1A374D
 }
 
 h1 {
