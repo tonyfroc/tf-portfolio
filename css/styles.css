@@ -69,6 +69,9 @@ html {
   text-align: center; 
 }
 
+.projects a {
+    color: #1A374D;
+}
 .more-info {
   display: flex;
   padding: 2rem 1rem;
