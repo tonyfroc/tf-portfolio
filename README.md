@@ -2,7 +2,7 @@
 
 #### By Tony Froccaro
 
-#### Portfolio demonstrating projects created with HTML and CSS
+#### Portfolio demonstrating projects created with HTML and CSS.
 
 ## Technologies Used
 
@@ -25,11 +25,11 @@ This portfolio gives some insight into my decision to pursue programming, my edu
 - `git remote add your_initials main https://github.com/tonyfroc/tf-portfolio.git`
 - `git push your_initials main`
 - Download a text editor (preferably VSCode) and
-- in terminal, type: `code .`
+- In terminal, type: `code .`
 
 ## Known Bugs
 
-- N/A
+- No known bugs at this time.
 
 ## License
 
