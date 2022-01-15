@@ -11,7 +11,7 @@
 
 ## Description
 
-This portfolio gives some insight into my decision to pursue programming, my education, work background, general background and links to the current projects I have worked on! Visit my portfolio [here:](https://tonyfroc.github.io/tf-portfolio/)
+This portfolio gives some insight into my decision to pursue programming, my education, work background, general background and links to the current projects I have worked on! Visit my portfolio [here.](https://tonyfroc.github.io/tf-portfolio/)
 
 ## Setup/Installation Requirements
 
