@@ -2,7 +2,7 @@
 
 #### By Tony Froccaro
 
-#### Portfolio demonstrating projects created with HTML and CSS.
+#### Portfolio demonstrating projects created with HTML and CSS. Visit it here: https://tonyfroc.github.io/tf-portfolio/
 
 ## Technologies Used
 
